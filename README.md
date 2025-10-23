@@ -16,7 +16,8 @@ Tujuan dari proyek ini adalah untuk menyelesaikan tugas UTS dengan fokus pada pe
 * **Kategori** – Menyimpan kategori barang seperti *Elektronik*, *Dokumen*, *Makanan/Minuman*, *Pakaian*, *Barang Fragile*, dan *Barang Non-Fragile*.
 * **Metode** – Menyimpan metode pembayaran yang digunakan pelanggan seperti *COD*, *QRIS*, dan *CASH*.
 * **Users** – Menyimpan akun pengguna (admin atau staf) yang memiliki akses untuk mengelola sistem.
-![pdm](images/pdmbarubanget.png)
+![Diagram PDM](pdm.png)
+
 
 
 # 🧰 Tech Stack
