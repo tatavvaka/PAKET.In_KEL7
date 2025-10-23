@@ -41,6 +41,12 @@ Proyek ini dibangun menggunakan:
 * Setelah selesai menguji satu folder, hapus isi tabel Transaksi dan Customer sebelum melanjutkan ke folder data berikutnya.
 * Ulangi proses yang sama untuk folder '100', '1000', dan '10000'.
 
+# Our Team
+* Tata Ivanka 24051214001
+* Yohana Noviyanti Sianipar 24051214002
+* Fahriza Salsabila 24051214019
+* Ayu Artha Wulan Ndari 24051214022
+* Azzahra Anggarista Yoan Putri 24051214032
 
 
 
