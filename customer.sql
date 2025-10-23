@@ -1,0 +1,10 @@
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (1, 'Caket Karman Mansur S.Kom', '0 509 6782 195', 'Banjarmasin', ' Kalimantan Selatan RT/RW 002/003');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (2, 'Lantar Digdaya Pradipta', '0824 1162 1098', 'Nabire', ' Papua Tengah RT/RW 001/002');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (3, 'Talia Farida', '0705 3584 145', 'Mataram', ' Nusa TenggaraBarat RT/RW 005/006');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (4, 'Bella Lestari', '0 732 9285 877', 'Tanjung Pinang', ' Kepulauan Riau RT/RW 002/003');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (5, 'Endah Nurdiyanti', '0 703 0515 297', 'Makassar', ' Sulawesi Selatan RT/RW 004/005');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (6, 'Jati Ramadan', '028 3250 0078', 'Kendari', ' Sulawesi Tenggara RT/RW 003/004');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (7, 'Luhung Saiful Suryono', '0 981 5619 352', 'Banjarmasin', ' Kalimantan Selatan RT/RW 006/001');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (8, 'Zulfa Namaga', '0844 8262 801', 'Kendari', ' Sulawesi Tenggara RT/RW 003/004');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (9, 'Jane Irma Palastri', '0 941 8544 7697', 'Palangkaraya', ' Kalimantan Tengah RT/RW 002/003');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (10, 'Heru Hardiansyah', '0 751 8117 7435', 'Tanjung Pinang', ' Kepulauan Riau RT/RW 001/002');
