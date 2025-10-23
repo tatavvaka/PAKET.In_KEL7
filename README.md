@@ -16,6 +16,8 @@ Tujuan dari proyek ini adalah untuk menyelesaikan tugas UTS dengan fokus pada pe
 * **Kategori** – Menyimpan kategori barang seperti *Elektronik*, *Dokumen*, *Makanan/Minuman*, *Pakaian*, *Barang Fragile*, dan *Barang Non-Fragile*.
 * **Metode** – Menyimpan metode pembayaran yang digunakan pelanggan seperti *COD*, *QRIS*, dan *CASH*.
 * **Users** – Menyimpan akun pengguna (admin atau staf) yang memiliki akses untuk mengelola sistem.
+![ERD Diagram](https://i.imgur.com/namagambar.png)
+
 # 🧰 Tech Stack
 Proyek ini dibangun menggunakan:
 * PostgreSQL — sebagai sistem manajemen basis data utama.
@@ -23,17 +25,17 @@ Proyek ini dibangun menggunakan:
 * Navicat Premium — untuk koneksi dan pengujian performa query lintas dataset.
 * GitHub — sebagai platform kolaborasi dan penyimpanan versi proyek.
 # 📂 Repository Contents
-/Nested Query → Berisi skrip SQL untuk 15 nested query yang digunakan dalam analisis data ekspedisi.
-/10 Data, /100 Data, /1000 Data, /10000 Data → Tiap folder berisi file .sql berisi data dummy untuk tabel utama seperti Customer, Transaksi, Kurir, Harga, dan lainnya, dengan jumlah data berbeda sesuai skala pengujian.
-/Schema → Berisi file Schema.sql untuk membuat seluruh struktur tabel pada database Paketin.
+*/Nested Query* → Berisi skrip SQL untuk 15 nested query yang digunakan dalam analisis data ekspedisi.
+*/10 Data, /100 Data, /1000 Data, /10000 Data* → Tiap folder berisi file .sql berisi data dummy untuk tabel utama seperti Customer, Transaksi, Kurir, Harga, dan lainnya, dengan jumlah data berbeda sesuai skala pengujian.
+*/Schema* → Berisi file Schema.sql untuk membuat seluruh struktur tabel pada database Paketin.
 # 🧪 How to Run the Tests
 * Jalankan file Schema.sql untuk membuat semua struktur tabel.
 * Impor data master seperti kategori, jenis pengiriman, metode pembayaran, dan kota.
-* Jalankan folder data secara berurutan (mulai dari folder 10 Data, kemudian 100, 1000, dan 10000).
-* Setelah mengimpor satu set data (misalnya dari folder 10 Data), jalankan semua file query yang ada di folder /Nested Query untuk melakukan pengujian.
+* Jalankan folder data secara berurutan (mulai dari folder '10 Data', kemudian '100', '1000', dan '10000').
+* Setelah mengimpor satu set data (misalnya dari folder '10 Data'), jalankan semua file query yang ada di folder 'Nested Query' untuk melakukan pengujian.
 * Catat waktu eksekusi tiap query untuk membandingkan performa berdasarkan jumlah data.
 * Setelah selesai menguji satu folder, hapus isi tabel Transaksi dan Customer sebelum melanjutkan ke folder data berikutnya.
-* Ulangi proses yang sama untuk folder 100, 1000, dan 10000.
+* Ulangi proses yang sama untuk folder '100', '1000', dan '10000'.
 
 
 
