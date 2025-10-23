@@ -26,7 +26,9 @@ Proyek ini dibangun menggunakan:
 * GitHub — sebagai platform kolaborasi dan penyimpanan versi proyek.
 # 📂 Repository Contents
 */Nested Query* → Berisi skrip SQL untuk 15 nested query yang digunakan dalam analisis data ekspedisi.
+
 */10 Data, /100 Data, /1000 Data, /10000 Data* → Tiap folder berisi file .sql berisi data dummy untuk tabel utama seperti Customer, Transaksi, Kurir, Harga, dan lainnya, dengan jumlah data berbeda sesuai skala pengujian.
+
 */Schema* → Berisi file Schema.sql untuk membuat seluruh struktur tabel pada database Paketin.
 # 🧪 How to Run the Tests
 * Jalankan file Schema.sql untuk membuat semua struktur tabel.
