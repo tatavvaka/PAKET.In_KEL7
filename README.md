@@ -16,7 +16,7 @@ Tujuan dari proyek ini adalah untuk menyelesaikan tugas UTS dengan fokus pada pe
 * **Kategori** – Menyimpan kategori barang seperti *Elektronik*, *Dokumen*, *Makanan/Minuman*, *Pakaian*, *Barang Fragile*, dan *Barang Non-Fragile*.
 * **Metode** – Menyimpan metode pembayaran yang digunakan pelanggan seperti *COD*, *QRIS*, dan *CASH*.
 * **Users** – Menyimpan akun pengguna (admin atau staf) yang memiliki akses untuk mengelola sistem.
-![ERD Diagram](https://i.imgur.com/namagambar.png)
+![ERD Diagram]([https://i.imgur.com/namagambar.png](https://drive.google.com/file/d/11CBjAaBUkoOwX1D6EDlsZ_53di8AJWaC/view?usp=sharing))
 
 # 🧰 Tech Stack
 Proyek ini dibangun menggunakan:
