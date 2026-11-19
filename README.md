@@ -42,11 +42,11 @@ Proyek ini dibangun menggunakan:
 * Ulangi proses yang sama untuk folder '100', '1000', dan '10000'.
 
 # Our Team
-* Tata Ivanka | 24051214001
-* Yohana Noviyanti Sianipar | 24051214002
-* Fahriza Salsabila | 24051214019
+* Tata Ivanka | 24051214001 @tatavvaka
+* Yohana Noviyanti Sianipar | 24051214002 @yohananovi
+* Fahriza Salsabila | 24051214019 @frzasalsaa
 * Ayu Artha Wulan Ndari | 24051214022
-* Azzahra Anggarista Yoan Putri | 24051214032
+* Azzahra Anggarista Yoan Putri | 24051214032 @ZAYORA
 
 
 
