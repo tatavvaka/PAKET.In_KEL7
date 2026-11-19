@@ -998,3 +998,4 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (998, 'Adika Luhung Ardianto', '023 9164 6738', 'Padang', ' Sumatra Barat RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (999, 'Salsabila Yuniar M.Farm', '0464 8621 705', 'Gorontalo', ' Gorontalo RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (1000, 'Maimunah Halimah M.Pd', '0663 1710 2444', 'Mamuju', ' Sulawesi Barat RT/RW 004/005');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (1472, 'Hamzah Sitompul', '0 477 8630 546', 'Pontianak', 'Kalimantan Barat RT/RW 006/001');
