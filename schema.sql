@@ -72,3 +72,59 @@ CREATE TABLE transaksi (
 -- The composite foreign key guarantees that a transaction uses the tariff
 -- assigned to its category. id_kurir remains nullable when no verified
 -- courier assignment exists in the source dataset.
+
+-- Keep transaction totals synchronized with the master tariff.
+-- The trigger overwrites any supplied total on INSERT/UPDATE using
+-- berat * harga master, and the master-price trigger recalculates affected rows.
+
+CREATE OR REPLACE FUNCTION set_transaksi_total_from_master()
+RETURNS TRIGGER
+LANGUAGE plpgsql
+AS $$
+DECLARE
+    v_harga NUMERIC(12,2);
+BEGIN
+    SELECT h.harga
+    INTO v_harga
+    FROM harga AS h
+    WHERE h.id_harga = NEW.id_harga
+      AND h.id_kategori = NEW.id_kategori;
+
+    IF NOT FOUND THEN
+        RAISE EXCEPTION
+            'Master tariff not found for id_harga % and id_kategori %',
+            NEW.id_harga, NEW.id_kategori;
+    END IF;
+
+    NEW.total := ROUND(NEW.berat * v_harga, 2);
+    RETURN NEW;
+END;
+$$;
+
+CREATE TRIGGER trg_transaksi_total_from_master
+BEFORE INSERT OR UPDATE OF berat, id_harga, id_kategori, total
+ON transaksi
+FOR EACH ROW
+EXECUTE FUNCTION set_transaksi_total_from_master();
+
+CREATE OR REPLACE FUNCTION recalculate_transaksi_after_harga_update()
+RETURNS TRIGGER
+LANGUAGE plpgsql
+AS $$
+BEGIN
+    IF NEW.harga IS DISTINCT FROM OLD.harga THEN
+        UPDATE transaksi
+        SET total = ROUND(berat * NEW.harga, 2)
+        WHERE id_harga = NEW.id_harga
+          AND id_kategori = NEW.id_kategori;
+    END IF;
+
+    RETURN NEW;
+END;
+$$;
+
+CREATE TRIGGER trg_harga_recalculate_transaksi
+AFTER UPDATE OF harga
+ON harga
+FOR EACH ROW
+EXECUTE FUNCTION recalculate_transaksi_after_harga_update();
