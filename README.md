@@ -89,7 +89,7 @@ Hasil audit SQL terhadap empat dataset:
 
 Audit menemukan bahwa nama barang yang sama muncul pada beberapa kategori, termasuk seluruh enam kategori master. Dengan demikian, validitas foreign key kategori dan tarif sudah terbukti secara teknis, tetapi kesesuaian semantik antara kolom `barang` dan `kategori` belum dapat dipastikan.
 
-Kategori tidak diubah secara otomatis karena repository belum memiliki kamus klasifikasi barang yang disetujui dan file CSV sumber belum tersedia di repository. Pemetaan kategori-barang perlu ditetapkan berdasarkan sumber yang dapat diverifikasi sebelum data digunakan sebagai data operasional.
+Audit rinci dapat dijalankan melalui `queries/audit_kategori_barang.sql`, yang menampilkan nama barang yang terhubung ke lebih dari satu kategori. Pada DATA 10000, setiap label barang ditemukan pada keenam kategori master. Kategori tidak diubah secara otomatis karena repository belum memiliki kamus klasifikasi barang yang disetujui dan file CSV sumber belum tersedia di repository. Pemetaan kategori-barang perlu ditetapkan berdasarkan sumber yang dapat diverifikasi sebelum data digunakan sebagai data operasional.
 
 ## Nested queries
 
