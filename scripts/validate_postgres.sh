@@ -68,6 +68,7 @@ for size in 10 100 1000 10000; do
   done
   psql -X -v ON_ERROR_STOP=1 -d "$db" -f "$ROOT_DIR/$customer_file" >/dev/null
   psql -X -v ON_ERROR_STOP=1 -d "$db" -f "$ROOT_DIR/$transaction_file" >/dev/null
+  psql -X -v ON_ERROR_STOP=1 -d "$db" -f "$ROOT_DIR/scripts/test_pricing_triggers.sql" >/dev/null
   psql -X -v ON_ERROR_STOP=1 -d "$db" -f "$ROOT_DIR/scripts/reset_sequences.sql" >/dev/null
   psql -X -q -v ON_ERROR_STOP=1 -d "$db" -f "$ROOT_DIR/queries/15_nested_queries.sql" >/dev/null
   psql -X -q -v ON_ERROR_STOP=1 -d "$db" -f "$ROOT_DIR/queries/audit_kategori_barang.sql" >/dev/null
