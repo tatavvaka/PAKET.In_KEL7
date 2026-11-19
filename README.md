@@ -61,7 +61,7 @@ Rumus perhitungan:
 
 `total = berat × harga master`
 
-Berat pada transaksi dipertahankan dari data sumber. Nilai total dihitung ulang menggunakan tarif berdasarkan `id_harga` dan `id_kategori`.
+Berat pada transaksi dipertahankan dari data sumber. Trigger PostgreSQL pada `schema.sql` menghitung ulang `total` saat transaksi dimasukkan atau diperbarui, serta memperbarui transaksi terkait ketika tarif master berubah. Dengan demikian, aturan tarif tidak hanya diterapkan pada seed data, tetapi juga dijaga pada operasi database berikutnya.
 
 ## Dataset dan hasil audit
 
