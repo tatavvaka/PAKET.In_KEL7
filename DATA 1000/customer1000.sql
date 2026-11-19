@@ -31,8 +31,8 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (31, 'Anita Farida', '0 396 7936 901', 'Sofifi', ' Maluku Utara RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (32, 'Umi Nasyiah', '0446 8911 1086', 'Manokwari', ' Papua Barat RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (33, 'Warta Kamidin Wibowo S.Psi', '0 683 5815 0968', 'Tanjung Selor', ' Kalimantan Utara RT/RW 006/001');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (34, 'Maya Andriani', '0260 2794 7784', 'Jamb', ' Jambi RT/RW 006/001');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (35, 'Ana Wulandari S.E.I', '0815 5697 3972', 'Jamb', ' Jambi RT/RW 002/003');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (34, 'Maya Andriani', '0260 2794 7784', 'Jambi', ' Jambi RT/RW 006/001');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (35, 'Ana Wulandari S.E.I', '0815 5697 3972', 'Jambi', ' Jambi RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (36, 'Hani Dinda Wijayanti S.Ked', '0 802 513 053', 'Medan', ' Sumatra Utara RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (37, 'Eli Kuswandari', '0237 6818 072', 'Mamuju', ' Sulawesi Barat RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (38, 'Jail Ozy Simanjuntak S.Ked', '0659 5433 252', 'Sorong', ' Papua Barat Daya RT/RW 004/005');
@@ -46,7 +46,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (46, 'Yulia Laila Hastuti M.Pd', '0 255 1963 2152', 'Palembang', ' Sumatra Selatan RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (47, 'Dipa Prayoga S.E.I', '0618 7221 1835', 'Surabaya', ' Jawa Timur RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (48, 'Bakda Pratama', '0 242 1863 9045', 'Samarinda', ' Kalimantan Timur RT/RW 005/006');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (49, 'Mutia Hastuti S.T.', '0 970 7793 122', 'Jamb', ' Jambi RT/RW 001/002');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (49, 'Mutia Hastuti S.T.', '0 970 7793 122', 'Jambi', ' Jambi RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (50, 'Kayun Baktianto Gunawan', '0368 5316 3465', 'Jakarta', ' Daerah Khusus Jakarta RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (51, 'Dimaz Cayadi Firgantoro M.Kom.', '0742 8919 3650', 'Sorong', ' Papua Barat Daya RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (52, 'Yulia Amelia Pudjiastuti', '0 713 1053 933', 'Pontianak', ' Kalimantan Barat RT/RW 002/003');
@@ -77,7 +77,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (77, 'Hafshah Hariyah M.M.', '0 513 4325 977', 'Kendari', ' Sulawesi Tenggara RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (78, 'Nova Hariyah', '0 301 9461 919', 'Palangkaraya', ' Kalimantan Tengah RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (79, 'Daruna Siregar', '0 874 5228 7803', 'Manado', ' Sulawesi Utara RT/RW 002/003');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (80, 'Jasmin Zulaikha Suartini S.Pd', '0381 0145 378', 'Jamb', ' Jambi RT/RW 001/002');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (80, 'Jasmin Zulaikha Suartini S.Pd', '0381 0145 378', 'Jambi', ' Jambi RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (81, 'Najib Zulkarnain', '0 233 6386 5138', 'Medan', ' Sumatra Utara RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (82, 'Ella Ratih Namaga', '0 664 7069 7440', 'Sofifi', ' Maluku Utara RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (83, 'Zelaya Yuliarti', '0 528 7555 0210', 'Bandar Lampung', ' Lampung RT/RW 003/004');
@@ -207,7 +207,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (207, 'Kania Jane Nasyidah', '0 804 3693 2994', 'Serang', ' Banten RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (208, 'Hani Novitasari', '0438 2611 1241', 'Palangkaraya', ' Kalimantan Tengah RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (209, 'Tina Ciaobella Wijayanti M.Ak', '0712 1777 852', 'Manokwari', ' Papua Barat RT/RW 005/006');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (210, 'Ifa Pudjiastuti', '0 399 7379 4442', 'Jamb', ' Jambi RT/RW 006/001');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (210, 'Ifa Pudjiastuti', '0 399 7379 4442', 'Jambi', ' Jambi RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (211, 'Putri Mulyani', '0211 7646 223', 'Jakarta', ' Daerah Khusus Jakarta RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (212, 'Julia Febi Wijayanti', '022 3062 7300', 'Tanjung Selor', ' Kalimantan Utara RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (213, 'Darmaji Ghani Suryono', '0350 7770 980', 'Manokwari', ' Papua Barat RT/RW 005/006');
@@ -257,7 +257,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (257, 'Parman Habibi', '0 293 6630 665', 'Banjarmasin', ' Kalimantan Selatan RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (258, 'Cindy Eka Novitasari S.E.', '0 899 8364 438', 'Palu', ' Sulawesi Tengah RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (259, 'Belinda Samiah Agustina', '0891 644 674', 'Bandung', ' Jawa Barat RT/RW 002/003');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (260, 'Jasmin Suryatmi', '0 753 2356 817', 'Jamb', ' Jambi RT/RW 006/001');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (260, 'Jasmin Suryatmi', '0 753 2356 817', 'Jambi', ' Jambi RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (261, 'Vanya Pudjiastuti', '027 8758 495', 'Jayapura', ' Papua RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (262, 'Citra Aryani', '0 955 5534 6716', 'Manokwari', ' Papua Barat RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (263, 'Farhunnisa Zahra Kusmawati', '0 767 0209 7842', 'Kendari', ' Sulawesi Tenggara RT/RW 005/006');
@@ -270,7 +270,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (270, 'Embuh Budiyanto', '0 891 651 157', 'Gorontalo', ' Gorontalo RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (271, 'Putu Kuswoyo', '0 336 4713 3950', 'Tanjung Pinang', ' Kepulauan Riau RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (272, 'Vanya Rahimah', '0 779 8969 8131', 'Bengkulu', ' Bengkulu RT/RW 001/002');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (273, 'Tari Ana Kuswandari M.TI.', '0 736 4326 1092', 'Jamb', ' Jambi RT/RW 001/002');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (273, 'Tari Ana Kuswandari M.TI.', '0 736 4326 1092', 'Jambi', ' Jambi RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (274, 'Jumari Narpati', '0 888 3845 341', 'Semarang', ' Jawa Tengah RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (275, 'Balangga Kuswoyo S.H.', '0 683 7201 9450', 'Merauke', ' Papua Selatan RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (276, 'Mala Siti Rahmawati S.Gz', '0 450 5403 3087', 'Yogyakarta', ' Daerah Istimewa Yogyakarta RT/RW 004/005');
@@ -282,7 +282,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (282, 'Mulyono Irsad Pangestu S.T.', '0 307 8493 6076', 'Jakarta', ' Daerah Khusus Jakarta RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (283, 'Dalima Ifa Sudiati', '0 886 855 127', 'Medan', ' Sumatra Utara RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (284, 'Cinta Namaga S.Gz', '0876 0112 200', 'Jayawijaya', ' Papua Pegunungan RT/RW 002/003');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (285, 'Cahya Santoso S.Psi', '0390 0074 4893', 'Jamb', ' Jambi RT/RW 005/006');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (285, 'Cahya Santoso S.Psi', '0390 0074 4893', 'Jambi', ' Jambi RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (286, 'Alika Puspasari', '0741 7104 188', 'Jakarta', ' Daerah Khusus Jakarta RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (287, 'Naradi Kurniawan', '0470 3841 807', 'Palembang', ' Sumatra Selatan RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (288, 'Rudi Sihombing', '0797 6777 2218', 'Jayawijaya', ' Papua Pegunungan RT/RW 002/003');
@@ -324,8 +324,8 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (324, 'Bakda Samosir', '0 272 8126 8763', 'Pangkal Pinang', ' Bangka Belitung RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (325, 'Salwa Anggraini M.Farm', '0 940 0990 2086', 'Gorontalo', ' Gorontalo RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (326, 'Lintang Wahyuni', '0 307 5211 699', 'Pekanbaru', ' Riau RT/RW 002/003');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (327, 'Ellis Lala Mardhiyah', '0 249 5009 125', 'Jamb', ' Jambi RT/RW 005/006');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (328, 'Tugiman Nainggolan', '0437 7299 5475', 'Jamb', ' Jambi RT/RW 001/002');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (327, 'Ellis Lala Mardhiyah', '0 249 5009 125', 'Jambi', ' Jambi RT/RW 005/006');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (328, 'Tugiman Nainggolan', '0437 7299 5475', 'Jambi', ' Jambi RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (329, 'Kiandra Hasanah S.I.Kom', '0 448 6487 411', 'Padang', ' Sumatra Barat RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (330, 'Safina Susanti', '0391 6209 9203', 'Bandung', ' Jawa Barat RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (331, 'Naradi Natsir', '0853 9737 054', 'Sorong', ' Papua Barat Daya RT/RW 003/004');
@@ -343,10 +343,10 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (343, 'Laila Ani Nurdiyanti S.Kom', '0229 7743 8226', 'Pontianak', ' Kalimantan Barat RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (344, 'Ciaobella Pudjiastuti S.Gz', '0 508 7182 921', 'Bandung', ' Jawa Barat RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (345, 'Dartono Habibi', '0 667 1516 398', 'Pontianak', ' Kalimantan Barat RT/RW 006/001');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (346, 'Harjo Natsir M.TI.', '020 2449 6025', 'Jamb', ' Jambi RT/RW 002/003');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (346, 'Harjo Natsir M.TI.', '020 2449 6025', 'Jambi', ' Jambi RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (347, 'Ega Ganep Pradana', '0 664 8478 617', 'Tanjung Pinang', ' Kepulauan Riau RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (348, 'Nova Haryanti', '0 582 6148 3400', 'Manokwari', ' Papua Barat RT/RW 001/002');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (349, 'Mila Hastuti', '0 850 681 790', 'Jamb', ' Jambi RT/RW 001/002');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (349, 'Mila Hastuti', '0 850 681 790', 'Jambi', ' Jambi RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (350, 'Tedi Hartana Mangunsong M.M.', '025 7089 813', 'Padang', ' Sumatra Barat RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (351, 'Anom Irawan', '0722 6723 998', 'Mamuju', ' Sulawesi Barat RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (352, 'Cakrawangsa Siregar S.T.', '0585 5877 9637', 'Samarinda', ' Kalimantan Timur RT/RW 003/004');
@@ -359,7 +359,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (359, 'Darmanto Ozy Utama', '0 863 013 357', 'Manokwari', ' Papua Barat RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (360, 'Rusman Budiman S.Sos', '0 686 0411 6678', 'Manokwari', ' Papua Barat RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (361, 'Jane Zulaikha Usamah S.T.', '0865 967 032', 'Gorontalo', ' Gorontalo RT/RW 002/003');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (362, 'Nova Wulandari', '0344 3229 430', 'Jamb', ' Jambi RT/RW 002/003');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (362, 'Nova Wulandari', '0344 3229 430', 'Jambi', ' Jambi RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (363, 'Hasim Cakrawangsa Simanjuntak M.Pd', '0871 6126 2866', 'Bengkulu', ' Bengkulu RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (364, 'Kenari Nashiruddin', '0577 0507 761', 'Palu', ' Sulawesi Tengah RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (365, 'Victoria Almira Halimah', '0 682 7264 969', 'Medan', ' Sumatra Utara RT/RW 006/001');
@@ -370,7 +370,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (370, 'Zamira Farah Winarsih M.TI.', '0615 8460 4666', 'Banjarmasin', ' Kalimantan Selatan RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (371, 'Unjani Pratiwi M.TI.', '0 25 4594 815', 'Jayapura', ' Papua RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (372, 'Anita Halima Sudiati S.IP', '0834 2486 3810', 'Palembang', ' Sumatra Selatan RT/RW 002/003');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (373, 'Ika Andriani S.Farm', '0990 5341 384', 'Jamb', ' Jambi RT/RW 003/004');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (373, 'Ika Andriani S.Farm', '0990 5341 384', 'Jambi', ' Jambi RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (374, 'Keisha Hassanah', '0 878 4637 0056', 'Mamuju', ' Sulawesi Barat RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (375, 'Gasti Kuswandari', '0 270 5203 719', 'Bengkulu', ' Bengkulu RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (376, 'Damu Kurniawan', '023 9356 913', 'Pontianak', ' Kalimantan Barat RT/RW 004/005');
@@ -404,7 +404,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (404, 'Septi Pertiwi', '0981 9395 026', 'Makassar', ' Sulawesi Selatan RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (405, 'Kalim Marpaung', '0424 6424 7041', 'Semarang', ' Jawa Tengah RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (406, 'Darimin Mahendra S.Pt', '0 840 8124 0223', 'Surabaya', ' Jawa Timur RT/RW 005/006');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (407, 'Salman Iswahyudi', '0 518 3803 1916', 'Jamb', ' Jambi RT/RW 003/004');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (407, 'Salman Iswahyudi', '0 518 3803 1916', 'Jambi', ' Jambi RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (408, 'Maimunah Yulianti', '0 795 7781 3318', 'Palembang', ' Sumatra Selatan RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (409, 'Puti Purwanti', '0936 6431 9305', 'Pangkal Pinang', ' Bangka Belitung RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (410, 'Vera Suartini', '0623 6110 8536', 'Tanjung Pinang', ' Kepulauan Riau RT/RW 003/004');
@@ -500,7 +500,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (500, 'Cemplunk Wasita', '0 27 4239 9990', 'Jayapura', ' Papua RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (501, 'Lembah Najmudin', '0217 1614 4263', 'Palangkaraya', ' Kalimantan Tengah RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (502, 'Ida Pudjiastuti S.Pd', '0233 1167 2895', 'Bandar Lampung', ' Lampung RT/RW 001/002');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (503, 'Cici Calista Yuniar S.Pd', '0 869 9320 265', 'Jamb', ' Jambi RT/RW 005/006');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (503, 'Cici Calista Yuniar S.Pd', '0 869 9320 265', 'Jambi', ' Jambi RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (504, 'Balamantri Dadi Prasasta S.IP', '0210 0498 526', 'Surabaya', ' Jawa Timur RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (505, 'Kalim Tri Wijaya S.Psi', '0 868 9294 0741', 'Denpasar', ' Bali RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (506, 'Adhiarja Adhiarja Thamrin M.Kom.', '0 23 8287 1902', 'Manokwari', ' Papua Barat RT/RW 006/001');
@@ -516,7 +516,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (516, 'Ulva Winarsih', '0677 0660 2160', 'Palu', ' Sulawesi Tengah RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (517, 'Sakti Pardi Dongoran', '0279 0055 5475', 'Jayapura', ' Papua RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (518, 'Laras Andriani S.IP', '0 989 0639 573', 'Makassar', ' Sulawesi Selatan RT/RW 006/001');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (519, 'Prayoga Vinsen Prabowo', '0 507 8478 450', 'Jamb', ' Jambi RT/RW 005/006');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (519, 'Prayoga Vinsen Prabowo', '0 507 8478 450', 'Jambi', ' Jambi RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (520, 'Karsa Gunarto', '0 429 8152 913', 'Manokwari', ' Papua Barat RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (521, 'Ganda Widodo', '0 651 3942 3442', 'Sofifi', ' Maluku Utara RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (522, 'Wardi Siregar S.Pt', '0 24 3428 2354', 'Denpasar', ' Bali RT/RW 006/001');
@@ -554,7 +554,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (554, 'Intan Permata', '0468 1858 9464', 'Palangkaraya', ' Kalimantan Tengah RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (555, 'Zahra Belinda Puspita', '0 202 6920 553', 'Bandung', ' Jawa Barat RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (556, 'Manah Megantara', '0 557 9090 7695', 'Surabaya', ' Jawa Timur RT/RW 006/001');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (557, 'Danuja Prakasa', '0 658 8432 479', 'Jamb', ' Jambi RT/RW 005/006');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (557, 'Danuja Prakasa', '0 658 8432 479', 'Jambi', ' Jambi RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (558, 'Kezia Eva Hartati S.E.I', '0570 9763 217', 'Kendari', ' Sulawesi Tenggara RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (559, 'Cornelia Pudjiastuti S.H.', '0620 3421 528', 'Tanjung Selor', ' Kalimantan Utara RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (560, 'Yani Titin Susanti S.H.', '0 643 6179 129', 'Merauke', ' Papua Selatan RT/RW 002/003');
@@ -562,7 +562,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (562, 'Farhunnisa Astuti S.Gz', '0733 8879 186', 'Jayawijaya', ' Papua Pegunungan RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (563, 'Gandewa Gantar Saptono', '0 713 1047 572', 'Manado', ' Sulawesi Utara RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (564, 'Farhunnisa Puput Melani', '0327 8022 3756', 'Ambon', ' Maluku RT/RW 001/002');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (565, 'Sabri Mandala', '0816 5450 737', 'Jamb', ' Jambi RT/RW 002/003');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (565, 'Sabri Mandala', '0816 5450 737', 'Jambi', ' Jambi RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (566, 'Umi Padmasari S.Gz', '0 430 9675 1710', 'Semarang', ' Jawa Tengah RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (567, 'Cahyanto Makuta Saputra S.Sos', '0 814 9904 919', 'Mataram', ' Nusa TenggaraBarat RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (568, 'Raina Yuniar', '0 234 7723 220', 'Padang', ' Sumatra Barat RT/RW 004/005');
@@ -643,7 +643,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (643, 'Mila Haryanti', '020 9057 4767', 'Gorontalo', ' Gorontalo RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (644, 'Utama Utama', '0393 6711 0488', 'Banda Aceh', ' Aceh RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (645, 'Dipa Kusumo', '0 356 3202 222', 'Yogyakarta', ' Daerah Istimewa Yogyakarta RT/RW 002/003');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (646, 'Malika Yuniar', '0602 7707 018', 'Jamb', ' Jambi RT/RW 005/006');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (646, 'Malika Yuniar', '0602 7707 018', 'Jambi', ' Jambi RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (647, 'Jono Eluh Nababan S.T.', '0 502 8927 5207', 'Bandar Lampung', ' Lampung RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (648, 'Aslijan Waskita', '0751 4702 858', 'Bandar Lampung', ' Lampung RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (649, 'Clara Aryani', '0 264 3122 642', 'Gorontalo', ' Gorontalo RT/RW 002/003');
@@ -652,7 +652,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (652, 'Hasim Jailani', '0953 0970 5787', 'Banjarmasin', ' Kalimantan Selatan RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (653, 'Vivi Yuliana Pratiwi', '0 883 1688 792', 'Banjarmasin', ' Kalimantan Selatan RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (654, 'Tania Rahayu M.Ak', '0530 5677 5276', 'Manokwari', ' Papua Barat RT/RW 005/006');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (655, 'Melinda Kiandra Rahmawati S.IP', '0 561 8394 889', 'Jamb', ' Jambi RT/RW 006/001');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (655, 'Melinda Kiandra Rahmawati S.IP', '0 561 8394 889', 'Jambi', ' Jambi RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (656, 'Laila Puput Suryatmi S.Gz', '0 499 8234 3492', 'Semarang', ' Jawa Tengah RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (657, 'Ade Kartika Agustina S.T.', '0334 0754 746', 'Nabire', ' Papua Tengah RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (658, 'Dadi Liman Irawan M.M.', '0477 8373 753', 'Bandar Lampung', ' Lampung RT/RW 006/001');
@@ -705,7 +705,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (705, 'Maida Prastuti', '0 624 5673 8175', 'Ambon', ' Maluku RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (706, 'Kezia Prastuti', '0 715 2327 1028', 'Pekanbaru', ' Riau RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (707, 'Imam Setiawan', '0473 3557 473', 'Bengkulu', ' Bengkulu RT/RW 001/002');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (708, 'Ade Uwais M.Ak', '0 627 5458 374', 'Jamb', ' Jambi RT/RW 004/005');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (708, 'Ade Uwais M.Ak', '0 627 5458 374', 'Jambi', ' Jambi RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (709, 'Indah Maryati', '0413 0264 774', 'Tanjung Selor', ' Kalimantan Utara RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (710, 'Iriana Pudjiastuti', '0600 3378 568', 'Tanjung Pinang', ' Kepulauan Riau RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (711, 'Prayitna Prasasta', '0 920 8861 489', 'Sofifi', ' Maluku Utara RT/RW 001/002');
@@ -737,9 +737,9 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (737, 'Vera Hartati', '0 840 8137 776', 'Bandung', ' Jawa Barat RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (738, 'Lembah Nainggolan S.IP', '0 374 5431 9042', 'Sorong', ' Papua Barat Daya RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (739, 'Emong Firgantoro S.Sos', '0 532 4200 9256', 'Jayapura', ' Papua RT/RW 003/004');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (740, 'Parman Pradipta', '0759 3261 6154', 'Jamb', ' Jambi RT/RW 001/002');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (740, 'Parman Pradipta', '0759 3261 6154', 'Jambi', ' Jambi RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (741, 'Salwa Uyainah', '0692 1060 3555', 'Pontianak', ' Kalimantan Barat RT/RW 003/004');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (742, 'Rahmat Indra Budiman M.TI.', '0 750 8000 8096', 'Jamb', ' Jambi RT/RW 004/005');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (742, 'Rahmat Indra Budiman M.TI.', '0 750 8000 8096', 'Jambi', ' Jambi RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (743, 'Paiman Gangsar Siregar S.Gz', '0522 7945 9006', 'Makassar', ' Sulawesi Selatan RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (744, 'Pandu Sitorus M.TI.', '0 868 495 109', 'Ambon', ' Maluku RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (745, 'Kemba Banawa Waskita', '0 840 4596 3173', 'Banda Aceh', ' Aceh RT/RW 001/002');
@@ -760,7 +760,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (760, 'Argono Nababan', '0 837 6522 9711', 'Bandung', ' Jawa Barat RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (761, 'Kania Safina Wastuti S.Kom', '0 264 9463 4197', 'Manokwari', ' Papua Barat RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (762, 'Laila Hassanah M.Kom.', '0504 6267 388', 'Mataram', ' Nusa TenggaraBarat RT/RW 001/002');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (763, 'Gading Dabukke', '0648 9722 270', 'Jamb', ' Jambi RT/RW 003/004');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (763, 'Gading Dabukke', '0648 9722 270', 'Jambi', ' Jambi RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (764, 'Najam Marbun M.Ak', '0928 0060 395', 'Tanjung Selor', ' Kalimantan Utara RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (765, 'Mutia Mandasari', '0 305 3798 849', 'Jayawijaya', ' Papua Pegunungan RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (766, 'Vicky Yuniar M.Pd', '0 427 4979 6217', 'Bandung', ' Jawa Barat RT/RW 001/002');
@@ -778,7 +778,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (778, 'Almira Yolanda S.T.', '0 651 5745 5981', 'Manokwari', ' Papua Barat RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (779, 'Tasdik Suryono', '0 609 3836 7987', 'Semarang', ' Jawa Tengah RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (780, 'Ulva Laksita', '0 204 6836 749', 'Gorontalo', ' Gorontalo RT/RW 003/004');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (781, 'Mala Hesti Mandasari', '0851 8962 3143', 'Jamb', ' Jambi RT/RW 004/005');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (781, 'Mala Hesti Mandasari', '0851 8962 3143', 'Jambi', ' Jambi RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (782, 'Cawisono Mansur S.E.I', '0876 3651 408', 'Semarang', ' Jawa Tengah RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (783, 'Rahmi Ilsa Mardhiyah', '0933 1011 930', 'Samarinda', ' Kalimantan Timur RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (784, 'Okto Wacana M.Pd', '0 238 7861 0361', 'Jayawijaya', ' Papua Pegunungan RT/RW 004/005');
@@ -828,7 +828,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (828, 'Purwadi Tampubolon', '0 493 4780 635', 'Padang', ' Sumatra Barat RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (829, 'Kawaya Napitupulu', '0583 6897 4651', 'Merauke', ' Papua Selatan RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (830, 'Banawi Sitorus', '0825 179 309', 'Bengkulu', ' Bengkulu RT/RW 004/005');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (831, 'Zizi Farhunnisa Maryati', '0 324 1590 069', 'Jamb', ' Jambi RT/RW 006/001');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (831, 'Zizi Farhunnisa Maryati', '0 324 1590 069', 'Jambi', ' Jambi RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (832, 'Zaenab Tania Maryati M.Farm', '0832 1375 105', 'Bandar Lampung', ' Lampung RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (833, 'Saiful Damanik S.Pt', '0 381 0024 904', 'Jayapura', ' Papua RT/RW 004/005');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (834, 'Mulyanto Mustofa M.Farm', '0 322 7006 074', 'Sofifi', ' Maluku Utara RT/RW 003/004');
@@ -856,7 +856,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (856, 'Koko Dasa Putra S.Pd', '020 8811 8678', 'Sorong', ' Papua Barat Daya RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (857, 'Halima Oktaviani S.Gz', '0892 800 820', 'Jayapura', ' Papua RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (858, 'Cawuk Megantara', '0464 2985 3734', 'Tanjung Pinang', ' Kepulauan Riau RT/RW 005/006');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (859, 'Ophelia Aryani', '0 256 4072 0138', 'Jamb', ' Jambi RT/RW 001/002');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (859, 'Ophelia Aryani', '0 256 4072 0138', 'Jambi', ' Jambi RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (860, 'Rina Yuliarti', '0 747 1638 4632', 'Palu', ' Sulawesi Tengah RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (861, 'Vicky Ghaliyati Rahimah', '0 260 0913 355', 'Tanjung Pinang', ' Kepulauan Riau RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (862, 'Lala Tantri Astuti', '0322 4976 5942', 'Gorontalo', ' Gorontalo RT/RW 003/004');
@@ -875,8 +875,8 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (875, 'Keisha Ana Lestari S.Sos', '0735 1826 5549', 'Jayapura', ' Papua RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (876, 'Tomi Hutasoit S.I.Kom', '0 791 9496 6397', 'Palangkaraya', ' Kalimantan Tengah RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (877, 'Jasmin Puspita', '0599 1497 7379', 'Manokwari', ' Papua Barat RT/RW 002/003');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (878, 'Nabila Nasyidah S.Psi', '0881 9796 2625', 'Jamb', ' Jambi RT/RW 002/003');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (879, 'Juli Rahimah S.Psi', '0793 8271 622', 'Jamb', ' Jambi RT/RW 002/003');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (878, 'Nabila Nasyidah S.Psi', '0881 9796 2625', 'Jambi', ' Jambi RT/RW 002/003');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (879, 'Juli Rahimah S.Psi', '0793 8271 622', 'Jambi', ' Jambi RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (880, 'Respati Dimaz Winarno', '0 617 6865 625', 'Pekanbaru', ' Riau RT/RW 005/006');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (881, 'Cagak Rafid Mahendra S.E.', '0 245 9140 309', 'Ambon', ' Maluku RT/RW 003/004');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (882, 'Kayla Nabila Andriani S.Sos', '0678 0090 892', 'Tanjung Selor', ' Kalimantan Utara RT/RW 005/006');
@@ -920,7 +920,7 @@ INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal"
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (920, 'Sabri Prayogo Kuswoyo M.Ak', '0 764 4578 2262', 'Kendari', ' Sulawesi Tenggara RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (921, 'Hendri Tampubolon', '0565 1456 2728', 'Bengkulu', ' Bengkulu RT/RW 001/002');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (922, 'Kamaria Rahimah', '0 241 2708 7848', 'Medan', ' Sumatra Utara RT/RW 005/006');
-INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (923, 'Ellis Lailasari', '0 980 0858 4997', 'Jamb', ' Jambi RT/RW 006/001');
+INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (923, 'Ellis Lailasari', '0 980 0858 4997', 'Jambi', ' Jambi RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (924, 'Rizki Digdaya Widodo', '0542 4550 118', 'Ambon', ' Maluku RT/RW 006/001');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (925, 'Aditya Jailani', '0 743 9152 995', 'Yogyakarta', ' Daerah Istimewa Yogyakarta RT/RW 002/003');
 INSERT INTO "customer" ("id_customer", "nama_customer", "no_hp_customer", "asal", "alamat_lengkap_asal") VALUES (926, 'Kamaria Rini Andriani S.IP', '0 502 0923 5732', 'Jakarta', ' Daerah Khusus Jakarta RT/RW 006/001');
